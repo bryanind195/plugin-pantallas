@@ -25,7 +25,7 @@ Se tiene que replicar la misma estructura de archivos ya que la carpeta grafana-
 ## Descargar Proyecto
 
 - Hacer una cuenta en github.
-- Ir a la siguiente direccion: https://github.com/plugin-pantallas/GRAFANA_PLUGINS.
+- Ir a la siguiente direccion: https://github.com/bryanind195/plugin-pantallas
 - Realizar un Fork del proyecto.
 - Hacer un directorio en la PC.
 - Luego realizar un clon del proyecto con el siguiente comando: git clone https://github.com/[USER]/GRAFANA_PLUGINS.git
@@ -77,7 +77,7 @@ En su proyecto Fork de github hacer click en "pull request" y esperar el comenta
 ## Actualizar su copia del proyecto
 
 - Agregar el repositorio original al proyecto fork (esto se hace una sola vez):
-  git remote add upstream https://github.com/plugin-pantallas/GRAFANA_PLUGINS.git
+  git remote add upstream https://github.com/bryanind195/plugin-pantallas.git
 - Buscar todos los cambios desde el repositorio principal:
   git fetch upstream
 - Cambiarse al ramal maestro desde el fork:
